@@ -1,0 +1,1 @@
+export type RoleKey = "read_role" | "update_role" | "create_role" | "delete_role";

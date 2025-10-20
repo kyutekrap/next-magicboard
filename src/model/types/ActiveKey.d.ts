@@ -1,0 +1,1 @@
+export type ActiveKey = "Always" | "Conditionally" | "Never";
